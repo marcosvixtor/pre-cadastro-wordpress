@@ -1,0 +1,21 @@
+/* Estilo personalizado */
+
+body{
+    background: #ff6f02 !important;
+}
+
+.login h1 a {
+    background-image: url(https://hubbimobiliario.com.br/portal/wp-content/uploads/2024/01/logo-hubb-imobiliario-light.png) !important;
+    background-size: contain !important;
+    width: 313px !important;
+    pointer-events: none !important;
+    height: 50px !important;
+}
+
+.login #nav, .language-switcher {
+    display: none;
+}
+
+.login #backtoblog a{
+    color: white;
+}
