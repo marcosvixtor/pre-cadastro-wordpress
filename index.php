@@ -1,0 +1,1 @@
+<?php //Pré-cadastro Wordpress ?>
